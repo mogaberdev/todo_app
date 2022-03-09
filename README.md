@@ -1,7 +1,3 @@
-# todo_app
-
-ToDo app by MOG Apps
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
